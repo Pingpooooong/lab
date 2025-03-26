@@ -1,0 +1,53 @@
+{
+  "project" : {
+    "jobNameSuffix" : ".DataStage job",
+    "runEnvironmentId" : "38504818-de22-48e4-bbf7-871f9082c427",
+    "runPriorityQueue" : "Medium",
+    "runRemoteEngineEnforcement" : false,
+    "testDataProperties" : {
+      "testCaseJobNameSuffix" : ".DataStageTestCase Job",
+      "testDataConnectionType" : ""
+    },
+    "saveFrequency" : "save_changes_automatically",
+    "formatTimeString" : "",
+    "flowLimits" : {
+      "warnLimit" : 100
+    },
+    "testDataConnectionId" : "",
+    "nlsCollate" : "OFF",
+    "disableParamsRefreshCache" : false,
+    "runMessageHandlerId" : "",
+    "formatDecimalSeparator" : "",
+    "testDataBasePath" : "",
+    "sequenceNameSuffix" : ".DataStage sequence",
+    "defineParameters" : false,
+    "optimizedSequenceNameSuffix" : ".DataStage sequence job",
+    "runArtifactRetention" : {
+      "enabled" : false
+    },
+    "gitIntegration" : {
+      "enableGit" : true,
+      "gitProvider" : "git",
+      "gitFolder" : "",
+      "gitToken" : "{dsnextenc}VfhF2KmCyAqYYb28ThJ6ZgNGOkp9l2SPpkDoNRoIhzj6ztoncs/t6B8/+8iPQb6P",
+      "gitURL" : "https://github.com/Pingpooooong/lab.git",
+      "gitBranch" : "main"
+    },
+    "thresholdLimits" : { },
+    "runEnvironmentIds" : [ "38504818-de22-48e4-bbf7-871f9082c427" ],
+    "formatDateString" : "",
+    "metricsRepository" : {
+      "enableMetrics" : false,
+      "metricsRetention" : {
+        "enabled" : false
+      },
+      "connection" : {
+        "datasource_type" : "e1c23729-99d8-4407-b3df-336e33ffdc82"
+      },
+      "enableAdvancedFind" : false
+    },
+    "nlsMap" : "",
+    "formatTimestampString" : "",
+    "runEnvironmentNames" : [ "default_datastage_px" ]
+  }
+}

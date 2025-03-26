@@ -1,0 +1,42 @@
+{
+  "project" : "test",
+  "projectId" : "155f03e9-14f3-40cd-a134-dbad72b0f45d",
+  "created_by" : "linhhb",
+  "environment" : "cp4d",
+  "services_info" : [ {
+    "name" : "ds-canvas",
+    "version" : "511.0.35"
+  }, {
+    "name" : "ds-cas-lite",
+    "version" : "511.0.3"
+  }, {
+    "name" : "ds-codegen",
+    "version" : "511.0.16"
+  }, {
+    "name" : "ds-flow-runtime",
+    "version" : "511.0.5"
+  }, {
+    "name" : "ds-flows",
+    "version" : "511.0.16"
+  }, {
+    "name" : "ds-migration",
+    "version" : "511.0.10"
+  }, {
+    "name" : "ds-px-runtime",
+    "version" : "511.0.21"
+  }, {
+    "name" : "DSAssets",
+    "version" : "511.0.8"
+  }, {
+    "name" : "qs-ruleset",
+    "version" : "511.0.4"
+  } ],
+  "assets" : [ {
+    "name" : "155f03e9-14f3-40cd-a134-dbad72b0f45d-DataStage_settings",
+    "type" : "data_intg_project_settings"
+  }, {
+    "name" : "hehe",
+    "type" : "data_intg_flow"
+  } ],
+  "flow_job_mapping" : [ ]
+}

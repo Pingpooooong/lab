@@ -1,0 +1,61 @@
+{
+  "primary_pipeline" : "f210d28e-7627-44ed-b4fd-282f67d94082",
+  "pipelines" : [ {
+    "nodes" : [ ],
+    "description" : "",
+    "id" : "f210d28e-7627-44ed-b4fd-282f67d94082",
+    "app_data" : {
+      "datastage" : {
+        "nls_map_name" : "",
+        "nls_locale" : "OFF"
+      },
+      "ui_data" : {
+        "comments" : [ {
+          "associated_id_refs" : [ ],
+          "width" : 175,
+          "x_pos" : 31.68,
+          "id" : "1ea823eb-8470-4f7b-a9d8-5627e4c10d9b",
+          "y_pos" : 47.519999999999996,
+          "content" : "aaaaa",
+          "height" : 42
+        } ]
+      }
+    },
+    "runtime_ref" : ""
+  } ],
+  "external_paramsets" : [ ],
+  "json_schema" : "https://api.dataplatform.ibm.com/schemas/common-pipeline/pipeline-flow/pipeline-flow-v3-schema.json",
+  "schemas" : [ ],
+  "doc_type" : "pipeline",
+  "id" : "2d718a48-d7f8-4e94-9cec-24e8e5cfd0d4",
+  "app_data" : {
+    "datastage" : {
+      "timestamp_format" : "",
+      "decimal_separator" : "",
+      "flowRunPriorityQueue" : "Medium",
+      "time_format" : "",
+      "date_format" : "",
+      "message_handlers" : [ ],
+      "version" : "3.0.5"
+    },
+    "additionalProperties" : {
+      "transInputLinkMapper" : { },
+      "ELTDropdown" : {
+        "id" : "nesting",
+        "label" : "Generate nested SQL",
+        "value" : "NESTED_QUERY"
+      },
+      "disableParamsCacheOnFlow" : false,
+      "rcpLinkList" : [ ],
+      "globalAcp" : true,
+      "enableRCP" : false,
+      "isNewTransActive" : false,
+      "enableSchemaLessDesign" : false,
+      "runMode" : "ETL"
+    }
+  },
+  "version" : "3.0",
+  "parameters" : {
+    "local_parameters" : [ ]
+  }
+}
